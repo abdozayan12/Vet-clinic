@@ -1,11 +1,9 @@
-## Copyright 2023, THAN TRONG KHANH
+MIT License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this WEB-APP and associated documentation files, to deal in the WEB-APP without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the WEB-APP, and to permit persons to whom the WEB-APP is furnished to do so, subject to the following conditions:
+Copyright (c) 2023  Abd Elhakim Zayan
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the WEB-APP.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-THE WEB-APP IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WEB-APP OR THE USE OR OTHER DEALINGS IN THE WEB-APP.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-WARNING: The design of this WEB-APP is by "CINDY SHIN" following [the Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
-***A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and***
-***B. produce, reproduce, and Share Adapted Material for NonCommercial purposes only.***  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
