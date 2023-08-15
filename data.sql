@@ -1,4 +1,4 @@
--- Create a new database called 'vet_clinic;'
+
 CREATE DATABASE vet_clinic;
 
 INSERT INTO animals (name, date_of_birth, escape_attempts, neutered, weight_kg)
