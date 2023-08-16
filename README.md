@@ -110,4 +110,4 @@ I would like to thank microverse for this project
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/abdozayan12/Vet-clinic/blob/Development/MIT.md) licensed.
