@@ -1,5 +1,4 @@
-/* Database schema to keep the structure of entire database. */
-
+-- Active: 1692261551446@@127.0.0.1@5432@vet_clinic
 CREATE TABLE animals (  
     id INT GENERATED ALWAYS AS IDENTITY,
     create_time DATE,
@@ -11,5 +10,26 @@ CREATE TABLE animals (
     PRIMARY KEY(id)
 );
 
+
 ALTER TABLE animals
-ADD COLUMN species VARCHAR(40)
+ADD COLUMN species VARCHAR(255);
+
+CREATE TABLE owners (
+    id serial PRIMARY KEY,
+    full_name varchar(255),
+    age integer
+);
+
+CREATE TABLE species (
+    id serial PRIMARY KEY,
+    name varchar(255)
+);
+
+ALTER TABLE animals
+DROP COLUMN species;
+
+ALTER TABLE animals
+ADD COLUMN species_id integer REFERENCES species(id);
+
+ALTER TABLE animals
+ADD COLUMN owner_id integer REFERENCES owners(id);
