@@ -33,3 +33,9 @@ ADD COLUMN species_id integer REFERENCES species(id);
 
 ALTER TABLE animals
 ADD COLUMN owner_id integer REFERENCES owners(id);
+CREATE TABLE vets (
+    id serial PRIMARY KEY,
+    name VARCHAR(100),
+    age INTEGER,
+    date_of_graduation DATE
+);
