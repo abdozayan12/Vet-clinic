@@ -69,6 +69,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Twitter: [@Abd elhakim Zayan](https://twitter.com/zayan_abdo)
 - LinkedIn: [@Abd elhakim Zayan](https://www.linkedin.com/in/abdozayan/)
 
+👤 **Ichsan Sandy**
+
+- GitHub: [@ichsansandy](https://github.com/ichsansandy)
+- Twitter: [@1chsansandy](https://twitter.com/1chsansandy)
+- LinkedIn: [Ichsan Sandy](https://linkedin.com/in/ichsans)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
